@@ -43,3 +43,9 @@ disablePathToLower = true
   section = ["HTML"]
   taxonomy = ["HTML"]
   term = ["HTML", "ATOM"]
+    
+[params]
+  subtitle = "Cyber security / Development / Personal projects"
+  description = ""
+  keywords = []
+  images = []

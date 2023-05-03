@@ -1,0 +1,19 @@
+.gblog-header {
+    padding: 0;
+}
+
+.gblog-header .container {
+    padding: 0.5rem;
+}
+
+.gblog-brand__title {
+    font-size: 1.5rem;
+}
+
+.gblog-brand__subtitle {
+    font-size: 1rem;
+}
+
+.gblog-brand__img {
+    display: none;
+}
